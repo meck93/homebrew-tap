@@ -1,6 +1,6 @@
 cask "capture-this" do
-  version "0.1.0-test.1"
-  sha256 "da690cd1a025361126a6e87826404af62886596de28ce06ce177de1b2a14c26a"
+  version "0.1.0"
+  sha256 "075965a67d44f09e972bb318bd7dceb1f1e43befbe26220325648c7837a1ffed"
 
   url "https://github.com/meck93/capture-this/releases/download/v#{version}/CaptureThis.dmg"
   name "CaptureThis"
